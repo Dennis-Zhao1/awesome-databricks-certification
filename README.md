@@ -6,13 +6,13 @@
 
 - [General Resources](#general-resources)
 - [Courses & Learning](#courses--learning)
-- [Data Engineer Associate](#data-engineer-associate)
-- [Data Engineer Professional](#data-engineer-professional)
-- [Data Analyst Associate](#data-analyst-associate)
-- [Apache Spark Developer Associate](#apache-spark-developer-associate)
-- [Machine Learning Associate](#machine-learning-associate)
-- [Machine Learning Professional](#machine-learning-professional)
-- [Generative AI Engineer Associate](#generative-ai-engineer-associate)
+- [Databricks Certified Data Engineer Associate](#databricks-certified-data-engineer-associate)
+- [Databricks Certified Data Engineer Professional](#databricks-certified-data-engineer-professional)
+- [Databricks Certified Data Analyst Associate](#databricks-certified-data-analyst-associate)
+- [Databricks Certified Apache Spark Developer Associate](#databricks-certified-apache-spark-developer-associate)
+- [Databricks Certified Machine Learning Associate](#databricks-certified-machine-learning-associate)
+- [Databricks Certified Machine Learning Professional](#databricks-certified-machine-learning-professional)
+- [Databricks Certified Generative AI Engineer Associate](#databricks-certified-generative-ai-engineer-associate)
 - [Communities](#communities)
 - [Contributing](#contributing)
 
@@ -37,7 +37,7 @@ All exams: $200 USD, multiple choice, proctored online. Databricks does not publ
 | [Data Engineer Associate](https://www.databricks.com/learn/certification/data-engineer-associate) | Associate | 45 | 90 min |
 | [Data Engineer Professional](https://www.databricks.com/learn/certification/data-engineer-professional) | Professional | 59 | 120 min |
 | [Data Analyst Associate](https://www.databricks.com/learn/certification/data-analyst-associate) | Associate | 45 | 90 min |
-| [Apache Spark Developer Associate](https://www.databricks.com/learn/certification/apache-spark-developer-associate) | Associate | 45 | 90 min |
+| [Apache Spark Developer Associate](https://www.databricks.com/learn/certification/apache-spark-developer-associate) | Associate | 45 | 120 min |
 | [Machine Learning Associate](https://www.databricks.com/learn/certification/machine-learning-associate) | Associate | 48 | 90 min |
 | [Machine Learning Professional](https://www.databricks.com/learn/certification/machine-learning-professional) | Professional | 59 | 120 min |
 | [Generative AI Engineer Associate](https://www.databricks.com/learn/certification/genai-engineer-associate) | Associate | 45 | 90 min |
@@ -46,7 +46,7 @@ Free accreditations (for customers/partners): Databricks Fundamentals, Generativ
 
 ### Cross-Certification Study Guides
 
-- [kengio/databricks-certification-study-guide](https://github.com/kengio/databricks-certification-study-guide) - Obsidian-based study guide covering all 6 Databricks certifications with Anki cards, labs, and learning paths. Aligned to 2025-2026 exam guides.
+- [kengio/databricks-certification-study-guide](https://github.com/kengio/databricks-certification-study-guide) - Obsidian-based study guide covering Databricks certifications with Anki cards, labs, and learning paths. Aligned to 2025-2026 exam guides.
 - [kasztp/dbx-exam-guide](https://github.com/kasztp/dbx-exam-guide) - No-BS exam prep guide for Databricks Data Engineer certifications with infographics.
 
 ### Practice Question Banks
@@ -57,7 +57,7 @@ Free accreditations (for customers/partners): Databricks Fundamentals, Generativ
 | [Databricks Certification Practice Questions](https://certprepnow.com/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [OpenExamPrep](https://open-exam-prep.com/practice/exams/technology/databricks) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [BricksNotes](https://bricksnotes.com/practice) | ✓ | ✓ | | | | | | |
-| Udemy Practice Tests | Paid | ✓ | ✓ | | | | | |
+| [Udemy Practice Tests](https://www.udemy.com/courses/search/?q=databricks+certification+practice) | Paid | ✓ | ✓ | | | | | |
 
 ---
 
@@ -95,7 +95,7 @@ Free accreditations (for customers/partners): Databricks Fundamentals, Generativ
 
 ---
 
-## Data Engineer Associate
+## Databricks Certified Data Engineer Associate
 
 > [Official Exam Page](https://www.databricks.com/learn/certification/data-engineer-associate) · 45 questions · 90 min · $200
 
@@ -129,7 +129,7 @@ Free accreditations (for customers/partners): Databricks Fundamentals, Generativ
 
 ---
 
-## Data Engineer Professional
+## Databricks Certified Data Engineer Professional
 
 > [Official Exam Page](https://www.databricks.com/learn/certification/data-engineer-professional) · 59 questions · 120 min · $200
 
@@ -152,7 +152,7 @@ Free accreditations (for customers/partners): Databricks Fundamentals, Generativ
 
 ---
 
-## Data Analyst Associate
+## Databricks Certified Data Analyst Associate
 
 > [Official Exam Page](https://www.databricks.com/learn/certification/data-analyst-associate) · 45 questions · 90 min · $200
 
@@ -168,12 +168,12 @@ Free accreditations (for customers/partners): Databricks Fundamentals, Generativ
 
 ### Practice Exams
 
-- [Databricks Data Analyst Practice Questions](https://certprepnow.com/databricks-data-analyst) - Free question bank covering SQL analytics, dashboards, visualizations, and AIBI Genie.
+- [Databricks Data Analyst Practice Questions](https://certprepnow.com/databricks-data-analyst) - Free practice questions for SQL analytics, dashboards, and AI/BI Genie topics.
 - [OpenExamPrep Data Analyst Tests](https://open-exam-prep.com/practice/exams/technology/databricks) - Free practice questions with instant scoring and explanations.
 
 ---
 
-## Apache Spark Developer Associate
+## Databricks Certified Apache Spark Developer Associate
 
 > [Official Exam Page](https://www.databricks.com/learn/certification/apache-spark-developer-associate) · 45 questions · 120 min · $200
 
@@ -183,19 +183,19 @@ Free accreditations (for customers/partners): Databricks Fundamentals, Generativ
 
 ### Study Resources
 
-- [Realsid/databricks-spark-certification](https://github.com/Realsid/databricks-spark-certification) - Guide for Databricks Spark certification. ⭐ 58
+- [Realsid/databricks-spark-certification](https://github.com/Realsid/databricks-spark-certification) - Guide for Databricks Spark certification with study notes and exam topics.
 - [Apache Spark Documentation](https://spark.apache.org/docs/latest/) - Official Spark docs covering DataFrame API, Spark SQL, and Structured Streaming.
 - [Databricks Spark Guide](https://docs.databricks.com/en/spark/index.html) - Databricks-specific Spark documentation covering cluster management and Delta Lake integration.
 - [Spark By Examples](https://sparkbyexamples.com/) - Community tutorials with PySpark and Scala code examples for DataFrame operations, SQL, and Streaming.
 
 ### Practice Exams
 
-- [Databricks Spark Developer Practice Questions](https://certprepnow.com/databricks-spark-developer) - Free question bank covering DataFrame API, Spark SQL, Structured Streaming, and Delta Lake.
+- [Spark Developer Certification Practice](https://certprepnow.com/databricks-spark-developer) - Practice questions with explanations for DataFrame API, Spark SQL, and Streaming topics.
 - [OpenExamPrep Spark Developer Tests](https://open-exam-prep.com/practice/exams/technology/databricks) - Free practice questions with instant scoring and explanations.
 
 ---
 
-## Machine Learning Associate
+## Databricks Certified Machine Learning Associate
 
 > [Official Exam Page](https://www.databricks.com/learn/certification/machine-learning-associate) · 48 questions · 90 min · $200
 
@@ -217,11 +217,11 @@ Free accreditations (for customers/partners): Databricks Fundamentals, Generativ
 ### Practice Exams
 
 - [OpenExamPrep ML Associate Tests](https://open-exam-prep.com/practice/exams/technology/databricks) - Free practice questions with instant scoring and explanations.
-- [Databricks ML Associate Practice Questions](https://certprepnow.com/databricks-ml-associate) - Free question bank covering data preparation, model development, deployment, and MLOps.
+- [ML Associate Exam Practice](https://certprepnow.com/databricks-ml-associate) - Practice questions on data preparation, model development, deployment, and MLOps.
 
 ---
 
-## Machine Learning Professional
+## Databricks Certified Machine Learning Professional
 
 > [Official Exam Page](https://www.databricks.com/learn/certification/machine-learning-professional) · 59 questions · 120 min · $200
 
@@ -235,12 +235,12 @@ Free accreditations (for customers/partners): Databricks Fundamentals, Generativ
 
 ### Practice Exams
 
-- [Databricks ML Professional Practice Questions](https://certprepnow.com/databricks-ml-professional) - Free question bank covering experimentation, model lifecycle, deployment patterns, and monitoring.
+- [ML Professional Exam Practice](https://certprepnow.com/databricks-ml-professional) - Practice questions on experimentation, model lifecycle, deployment, and monitoring.
 - [OpenExamPrep ML Professional Tests](https://open-exam-prep.com/practice/exams/technology/databricks) - Free practice questions with instant scoring and explanations.
 
 ---
 
-## Generative AI Engineer Associate
+## Databricks Certified Generative AI Engineer Associate
 
 > [Official Exam Page](https://www.databricks.com/learn/certification/genai-engineer-associate) · 45 questions · 90 min · $200
 
@@ -268,7 +268,7 @@ Free accreditations (for customers/partners): Databricks Fundamentals, Generativ
 ### Practice Exams
 
 - [OpenExamPrep GenAI Engineer Tests](https://open-exam-prep.com/practice/exams/technology/databricks) - Free practice questions with instant scoring and explanations.
-- [Databricks GenAI Engineer Practice Questions](https://certprepnow.com/databricks-genai-engineer) - Free question bank covering RAG, agents, evaluation, and deployment.
+- [GenAI Engineer Exam Practice](https://certprepnow.com/databricks-genai-engineer) - Practice questions on RAG, AI agents, model evaluation, and deployment.
 
 ---
 

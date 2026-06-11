@@ -20,6 +20,8 @@
 - [Databricks Certification Overview](https://www.databricks.com/learn/certification) - Official certification portal with exam registration, pricing, and requirements.
 - [Databricks Academy](https://www.databricks.com/learn/training) - Free on-demand courses and learning paths from Databricks.
 - [Databricks Documentation](https://docs.databricks.com/) - Official product documentation covering all platform features tested across certifications.
+- [Delta Lake Documentation](https://docs.databricks.com/en/delta/index.html) - Official Delta Lake guide — core topic tested across all Data Engineer and Analyst exams.
+- [Unity Catalog Documentation](https://docs.databricks.com/en/data-governance/unity-catalog/index.html) - Official Unity Catalog guide for data governance, tested across multiple certifications.
 
 ### Cross-Certification Study Guides
 
@@ -60,6 +62,12 @@
 - [RESGAD-TECH-UK/Databricks-Data-Engineer-Certification-Guide](https://github.com/RESGAD-TECH-UK/Databricks-Data-Engineer-Certification-Guide) - Comprehensive guide with topic breakdowns, study tips, and practice strategies.
 - [Galius5136/databricks-spark-3.5-cert-prep](https://github.com/Galius5136/databricks-spark-3.5-cert-prep) - Agent-skill study system for Spark 3.5 certification with sources linked to official docs.
 
+### Practice Exams
+
+- [Databricks DE Associate Practice Questions](https://certprepnow.com/databricks-de-associate) - Free question bank with explanations covering Delta Lake, ELT, Workflows, Unity Catalog, and CI/CD.
+- [BricksNotes DE Associate Practice Exam](https://bricksnotes.com/practice) - Community-built free mock exam with explanations. No paywall.
+- [Udemy DE Associate Practice Tests](https://www.udemy.com/course/practice-exams-databricks-certified-data-engineer-associate/) - Timed mock exams with 55 questions each, matching real exam format.
+
 ## Data Engineer Professional
 
 > [Official Exam Page](https://www.databricks.com/learn/certification/data-engineer-professional) · 120 min · $200
@@ -73,6 +81,12 @@
 - [RESGAD-TECH-UK/Databricks-Data-Engineer-Certification-Guide](https://github.com/RESGAD-TECH-UK/Databricks-Data-Engineer-Certification-Guide) - Covers both Associate and Professional with topic breakdowns, study tips, and practice strategies.
 - [Databricks Lakeflow Documentation](https://docs.databricks.com/en/delta-live-tables/index.html) - Official guide to Lakeflow Declarative Pipelines (formerly DLT), a major Professional exam topic.
 - [Databricks Asset Bundles Documentation](https://docs.databricks.com/en/dev-tools/bundles/index.html) - Official guide to DABs for CI/CD and deployment, tested on the Professional exam.
+- [Databricks Workflows Documentation](https://docs.databricks.com/en/workflows/index.html) - Official guide to job orchestration, scheduling, and multi-task workflows.
+
+### Practice Exams
+
+- [Databricks DE Professional Practice Questions](https://certprepnow.com/databricks-de-professional) - Free question bank covering Lakeflow, DABs, performance optimization, security, and governance.
+- [OpenExamPrep DE Professional Tests](https://open-exam-prep.com/practice/exams/technology/databricks) - Free practice questions with instant scoring and explanations.
 
 ## Data Analyst Associate
 
@@ -86,16 +100,31 @@
 
 - [vicsz/databricks-analyst-study-notes](https://github.com/vicsz/databricks-analyst-study-notes) - Comprehensive study notes with exam insights, based on the Mar 2025 exam guide.
 - [Databricks SQL Documentation](https://docs.databricks.com/en/sql/index.html) - Official SQL reference covering SQL Editor, warehouses, and query optimization tested on the exam.
+- [Databricks AI/BI Dashboards Documentation](https://docs.databricks.com/en/dashboards/index.html) - Official guide to dashboards and visualizations, a key exam topic.
+
+### Practice Exams
+
+- [Databricks Data Analyst Practice Questions](https://certprepnow.com/databricks-data-analyst) - Free question bank covering SQL analytics, dashboards, visualizations, and AIBI Genie.
+- [OpenExamPrep Data Analyst Tests](https://open-exam-prep.com/practice/exams/technology/databricks) - Free practice questions with instant scoring and explanations.
 
 ## Apache Spark Developer Associate
 
 > [Official Exam Page](https://www.databricks.com/learn/certification/apache-spark-developer-associate) · 120 min · $200
 
+### Books
+
+- [Learning Spark, 2nd Edition (O'Reilly)](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/) - Comprehensive book by Damji et al. covering Spark 3.x fundamentals tested on the exam.
+
 ### Study Resources
 
 - [Apache Spark Documentation](https://spark.apache.org/docs/latest/) - Official Spark docs covering DataFrame API, Spark SQL, and Structured Streaming.
 - [Databricks Spark Guide](https://docs.databricks.com/en/spark/index.html) - Databricks-specific Spark documentation covering cluster management and Delta Lake integration.
-- [Learning Spark, 2nd Edition (O'Reilly)](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/) - Comprehensive book by Damji et al. covering Spark 3.x fundamentals tested on the exam.
+- [Spark By Examples](https://sparkbyexamples.com/) - Community tutorials with PySpark and Scala code examples for DataFrame operations, SQL, and Streaming.
+
+### Practice Exams
+
+- [Databricks Spark Developer Practice Questions](https://certprepnow.com/databricks-spark-developer) - Free question bank covering DataFrame API, Spark SQL, Structured Streaming, and Delta Lake.
+- [OpenExamPrep Spark Developer Tests](https://open-exam-prep.com/practice/exams/technology/databricks) - Free practice questions with instant scoring and explanations.
 
 ## Machine Learning Associate
 
@@ -110,6 +139,16 @@
 
 - [devesshhh/databricks-ml-certification](https://github.com/devesshhh/databricks-ml-certification) - Notebooks covering PySpark, MLflow, AutoML, Model Deployment, and MLOps. Author passed July 2025.
 
+### Study Resources
+
+- [MLflow Documentation](https://mlflow.org/docs/latest/index.html) - Official MLflow docs covering experiment tracking, model registry, and deployment.
+- [Databricks AutoML Documentation](https://docs.databricks.com/en/machine-learning/automl/index.html) - Official AutoML guide for automated model training and hyperparameter tuning.
+
+### Practice Exams
+
+- [Databricks ML Associate Practice Questions](https://certprepnow.com/databricks-ml-associate) - Free question bank covering data preparation, model development, deployment, and MLOps.
+- [OpenExamPrep ML Associate Tests](https://open-exam-prep.com/practice/exams/technology/databricks) - Free practice questions with instant scoring and explanations.
+
 ## Machine Learning Professional
 
 > [Official Exam Page](https://www.databricks.com/learn/certification/machine-learning-professional) · 120 min · $200
@@ -119,6 +158,12 @@
 - [alex-fedorenk0/db-ml-prof-exam](https://github.com/alex-fedorenk0/db-ml-prof-exam) - Detailed 4-section prep notes covering experimentation, lifecycle, deployment, and monitoring.
 - [MLflow Documentation](https://mlflow.org/docs/latest/index.html) - Official MLflow docs covering experiment tracking, model registry, and deployment tested on the exam.
 - [Databricks Model Serving Documentation](https://docs.databricks.com/en/machine-learning/model-serving/index.html) - Official guide to model endpoints, A/B testing, and monitoring.
+- [Databricks Feature Engineering Documentation](https://docs.databricks.com/en/machine-learning/feature-store/index.html) - Official guide to Feature Store and feature engineering workflows.
+
+### Practice Exams
+
+- [Databricks ML Professional Practice Questions](https://certprepnow.com/databricks-ml-professional) - Free question bank covering experimentation, model lifecycle, deployment patterns, and monitoring.
+- [OpenExamPrep ML Professional Tests](https://open-exam-prep.com/practice/exams/technology/databricks) - Free practice questions with instant scoring and explanations.
 
 ## Generative AI Engineer Associate
 
@@ -139,6 +184,16 @@
 - [codingdoneraitt/Databricks-Certified-Generative-AI-Engineer-Associate](https://github.com/codingdoneraitt/Databricks-Certified-Generative-AI-Engineer-Associate) - 37 labs across 8 modules covering every exam objective (March 2026 version).
 - [btriani/databricks-genai-lab-guide](https://github.com/btriani/databricks-genai-lab-guide) - 10 labs with Jupyter notebooks, architecture diagrams, cost estimates, and exam tips.
 - [keshabmanni/DatabricksGenAIAssociate_CertExamPrep](https://github.com/keshabmanni/DatabricksGenAIAssociate_CertExamPrep) - Interactive web study guide with progress tracking and practice quizzes.
+
+### Study Resources
+
+- [Databricks Vector Search Documentation](https://docs.databricks.com/en/generative-ai/vector-search.html) - Official guide to vector search for RAG applications.
+- [Mosaic AI Agent Framework Documentation](https://docs.databricks.com/en/generative-ai/agent-framework/index.html) - Official guide to building and deploying AI agents on Databricks.
+
+### Practice Exams
+
+- [Databricks GenAI Engineer Practice Questions](https://certprepnow.com/databricks-genai-engineer) - Free question bank covering RAG, agents, evaluation, and deployment.
+- [OpenExamPrep GenAI Engineer Tests](https://open-exam-prep.com/practice/exams/technology/databricks) - Free practice questions with instant scoring and explanations.
 
 ## Contributing
 

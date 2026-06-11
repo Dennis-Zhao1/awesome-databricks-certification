@@ -31,7 +31,7 @@
 - [Databricks Certification Practice Questions](https://certprepnow.com/) - Free question bank with detailed explanations covering all Databricks certifications. No signup required.
 - [OpenExamPrep Databricks Practice Tests](https://open-exam-prep.com/practice/exams/technology/databricks) - 1,300+ free practice questions across multiple Databricks exams with instant scoring.
 - [BricksNotes Free Practice Exam](https://bricksnotes.com/practice) - Community-built free practice exam for Data Engineer Associate. No paywall.
-- [Udemy Databricks Practice Tests](https://www.udemy.com/course/practice-exams-databricks-certified-data-engineer-associate/) - Multiple paid practice test courses with timed mock exams matching real exam format. 💰 Paid
+- [Udemy Databricks Practice Tests](https://www.udemy.com/course/practice-exams-databricks-certified-data-engineer-associate/) - Multiple practice test courses with timed mock exams matching real exam format.
 
 ## Data Engineer Associate
 

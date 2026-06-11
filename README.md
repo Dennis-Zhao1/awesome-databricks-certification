@@ -125,6 +125,7 @@ Free accreditations (for customers/partners): Databricks Fundamentals, Generativ
 ### Practice Exams
 
 - [BricksNotes DE Associate Practice Exam](https://bricksnotes.com/practice) - Community-built free mock exam with explanations. No paywall.
+- [CertPrepNow DE Associate Practice](https://certprepnow.com/databricks-de-associate) - Free practice questions covering Delta Lake, ELT, Workflows, and Unity Catalog.
 - [Udemy DE Associate Practice Tests](https://www.udemy.com/course/practice-exams-databricks-certified-data-engineer-associate/) - Timed mock exams with 55 questions each, matching real exam format.
 
 ---
@@ -147,6 +148,7 @@ Free accreditations (for customers/partners): Databricks Fundamentals, Generativ
 
 ### Practice Exams
 
+- [CertPrepNow DE Professional Practice](https://certprepnow.com/databricks-de-professional) - Free practice questions covering Lakeflow, DABs, performance tuning, and governance.
 - [OpenExamPrep DE Professional Tests](https://open-exam-prep.com/practice/exams/technology/databricks) - Free practice questions with instant scoring and explanations.
 - [Udemy DE Professional Practice Tests](https://www.udemy.com/course/practice-exams-databricks-certified-data-engineer-professional/) - Timed mock exams matching real exam format.
 

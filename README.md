@@ -190,7 +190,7 @@ Free accreditations (for customers/partners): Databricks Fundamentals, Generativ
 
 ### Practice Exams
 
-- [CertPrepNow Spark Developer Practice](https://certprepnow.com/databricks-spark-developer) - Practice questions with explanations for DataFrame API, Spark SQL, and Streaming topics.
+- [CertPrepNow Spark Developer Practice](https://certprepnow.com/databricks-spark-developer) - Free practice questions with explanations for DataFrame API, Spark SQL, and Streaming topics.
 - [OpenExamPrep Spark Developer Tests](https://open-exam-prep.com/practice/exams/technology/databricks) - Free practice questions with instant scoring and explanations.
 
 ---
@@ -217,7 +217,7 @@ Free accreditations (for customers/partners): Databricks Fundamentals, Generativ
 ### Practice Exams
 
 - [OpenExamPrep ML Associate Tests](https://open-exam-prep.com/practice/exams/technology/databricks) - Free practice questions with instant scoring and explanations.
-- [CertPrepNow ML Associate Practice](https://certprepnow.com/databricks-ml-associate) - Practice questions on data preparation, model development, deployment, and MLOps.
+- [CertPrepNow ML Associate Practice](https://certprepnow.com/databricks-ml-associate) - Free practice questions on data preparation, model development, deployment, and MLOps.
 
 ---
 
@@ -235,7 +235,7 @@ Free accreditations (for customers/partners): Databricks Fundamentals, Generativ
 
 ### Practice Exams
 
-- [CertPrepNow ML Professional Practice](https://certprepnow.com/databricks-ml-professional) - Practice questions on experimentation, model lifecycle, deployment, and monitoring.
+- [CertPrepNow ML Professional Practice](https://certprepnow.com/databricks-ml-professional) - Free practice questions on experimentation, model lifecycle, deployment, and monitoring.
 - [OpenExamPrep ML Professional Tests](https://open-exam-prep.com/practice/exams/technology/databricks) - Free practice questions with instant scoring and explanations.
 
 ---
@@ -268,7 +268,7 @@ Free accreditations (for customers/partners): Databricks Fundamentals, Generativ
 ### Practice Exams
 
 - [OpenExamPrep GenAI Engineer Tests](https://open-exam-prep.com/practice/exams/technology/databricks) - Free practice questions with instant scoring and explanations.
-- [CertPrepNow GenAI Engineer Practice](https://certprepnow.com/databricks-genai-engineer) - Practice questions on RAG, AI agents, model evaluation, and deployment.
+- [CertPrepNow GenAI Engineer Practice](https://certprepnow.com/databricks-genai-engineer) - Free practice questions on RAG, AI agents, model evaluation, and deployment.
 
 ---
 

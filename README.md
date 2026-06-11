@@ -54,7 +54,7 @@ Free accreditations (for customers/partners): Databricks Fundamentals, Generativ
 | Platform | Free | DE Assoc | DE Prof | Analyst | Spark Dev | ML Assoc | ML Prof | GenAI |
 | -------- | ---- | -------- | ------- | ------- | --------- | -------- | ------- | ----- |
 | [Databricks Academy](https://customer-academy.databricks.com/learn) | Customers | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| [Databricks Certification Practice Questions](https://certprepnow.com/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [CertPrepNow](https://certprepnow.com/) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [OpenExamPrep](https://open-exam-prep.com/practice/exams/technology/databricks) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [BricksNotes](https://bricksnotes.com/practice) | ✓ | ✓ | | | | | | |
 | [Udemy Practice Tests](https://www.udemy.com/courses/search/?q=databricks+certification+practice) | Paid | ✓ | ✓ | | | | | |
